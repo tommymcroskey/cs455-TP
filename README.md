@@ -20,9 +20,9 @@ unzip FEMA.zip
 
 cd ..
 
-python3 -m venv venv
+python3 -m venv cs455tp
 
-source venv/bin/activate
+source cs455tp/bin/activate
 
 pip install -r requirements.txt
 
