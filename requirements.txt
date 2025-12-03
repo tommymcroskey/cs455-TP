@@ -1,2 +1,6 @@
 pyspark
-# please add more for the model tasks kushal
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
